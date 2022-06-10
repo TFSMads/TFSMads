@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi im Mads i'am a Developer that mainly works with java.
 
 <!--
 **TFSMads/TFSMads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+### My GitHub Stats:
+[<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=TFSMads&show_icons=true&theme=tokyonight&hide_border=true" />][website]
+[<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFSMads&theme=tokyonight&hide_border=true" />][website]
+
+[website]: https://github.com/TFSMads
